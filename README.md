@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Henrique Trujilano / henriquetcn 
-- 👀 I’m interested in work on a programming project. 
-- 🌱 I’m currently learning HTML, JS, NODE.JS, REACT.JS...
-- 💞️ I’m looking to collaborate on which is the project involving these technologies.
-- 📫 How to reach me: henrique.trujilano@outlook.com or https://www.linkedin.com/in/henrique-trujilano-349454162/
+- 👋 Hi, I’m @Henrique Trujilano / henriquetcn
+- 🌱 I’m currently learning Python, SQL, POO, AZURE...
+- 📫 How to reach me: henrique.trujilano@outlook.com or https://www.linkedin.com/in/henrique-trujilano/
 
 <!---
 henriquetcn/henriquetcn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
